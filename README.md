@@ -1,4 +1,4 @@
-![Header](./github-banner-header.png)
+![Header](./github-header-banner.png)
 👋 Hi, I’m @gitz1001
 🎓 IT Student | 📊 Data Science & Business Analytics Enthusiast | 💡 Tech + Business Strategist  
 
