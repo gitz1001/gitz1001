@@ -1,3 +1,4 @@
+![Header](https://your-banner-link.com/header.png)
 👋 Hi, I’m @gitz1001
 🎓 IT Student | 📊 Data Science & Business Analytics Enthusiast | 💡 Tech + Business Strategist  
 
