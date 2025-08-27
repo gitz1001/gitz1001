@@ -10,6 +10,17 @@
 
 🛠️ Tech Stack 
 
+🛠️ Tech Stack  
+
+**Languages & Tools**  
+[![My Skills](https://skillicons.dev/icons?i=python,r,java,js,html,css,sql,cs&theme=dark)](https://skillicons.dev)  
+
+**Frameworks & Platforms**  
+[![My Skills](https://skillicons.dev/icons?i=powerbi,bootstrap,azure,postgres,supabase,windows&theme=dark)](https://skillicons.dev)  
+
+**Collaboration & Productivity**  
+[![My Skills](https://skillicons.dev/icons?i=github,stackoverflow,discord,notion,gmail,linkedin,eclipse,ai&theme=dark)](https://skillicons.dev)  
+
 [![My Skills](https://skillicons.dev/icons?i=r,python,powerbi,sql,java,html,css,js,azure,windows,bootstrap,cs,discord,eclipse,supabase,postgres,github,stackoverflow,gmail,linkedin,notion,ai&theme=dark)](https://skillicons.dev)
 
 
