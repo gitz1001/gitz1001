@@ -1,9 +1,7 @@
 ![Header](./github-header-banner.png)
-👋 Hi, I’m @gitz1001
-🎓 IT Student | 📊 Data Science & Business Analytics Enthusiast | 💡 Tech + Business Strategist  
 
-👀 About Me  
-🌱 Currently learning **Java, Artificial Intelligence, and R for Data Visualization**  
+👀 About Me  @gitz1001
+🌱 Currently learning **Data Science, Artificial Intelligence, and R for Data Visualization**  
 🔭 Working on projects in **ETL, Business Information Systems, and Dashboard Design (Power BI, R Shiny, SQL)**  
 💞️ Open to collaboration on **data-driven projects, business analysis, and full-stack development**  
 📫 Reach me: **24-0193c@sgen.edu.ph**  
