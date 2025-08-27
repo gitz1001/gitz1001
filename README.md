@@ -10,17 +10,9 @@
 
 
 🛠️ Tech Stack 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=r,python,powerbi,sql,java,html,css,js,azure,windows,bootstrap,cs,discord,eclipse,supabase,postgres,github,stackoverflow,gmail,linkedin,notion,ai&theme=dark)](https://skillicons.dev)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)  
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
 
 🚀 Featured Projects  
 
