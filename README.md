@@ -20,10 +20,10 @@
 🔹 [Power BI Sales Performance Dashboard](#) – Sales trends, customer insights, and KPIs  
 🔹 [VarSight](#) – Data-driven business solution with analytics  
 
-📊 GitHub Stats  
+📊 GitHub Stats 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitz1001&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gitz1001&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitz1001&show_icons=true&theme=radical)  
 
 
 
