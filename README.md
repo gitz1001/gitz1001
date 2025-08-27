@@ -21,5 +21,19 @@
 🔹 [Power BI Sales Performance Dashboard](#) – Sales trends, customer insights, and KPIs  
 🔹 [VarSight](#) – Data-driven business solution with analytics  
 
-https://github-readme-stats.vercel.app/api?username=gitz1001&show_icons=true&theme=radical
-https://github-readme-stats.vercel.app/api/top-langs/?username=gitz1001&layout=compact&theme=radical
+📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitz1001&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gitz1001&layout=compact&theme=radical)  
+
+
+
+🌱 2025 Learning Roadmap  
+ AI & Machine Learning (Python / R)  
+ Advanced Data Visualization & Storytelling (Power BI, R Shiny, Tableau)  
+ Cloud & ETL Pipelines (AWS, Azure, PostgreSQL)  
+ Full-stack skills for business-focused apps  
+
+
+
+✨ “Data tells stories, tech builds bridges, and I stand at the intersection of both.”  
