@@ -42,10 +42,12 @@ Interactive R Shiny dashboard for retail trend analysis and visualization
 ![Status](https://img.shields.io/badge/Status-Deployed-brightgreen) ![Tech](https://img.shields.io/badge/R-Shiny-276DC3) ![Analytics](https://img.shields.io/badge/Data-Trend%20Analysis-blue)  
 <img src="./TrendLine-Dashboard.png" alt="Dashboard Screenshot" width="300"/>
 
-🔹 [Power BI Sales Performance Dashboard](https://github.com/gitz1001/Online-Retail-Insights-and-Trends--Power-BI/blob/main/Online%20Retail%20II.pdf) – Sales trends, customer insights, and KPIs 
+🔹 [Power BI Sales Performance Dashboard](https://github.com/gitz1001/Online-Retail-Insights-and-Trends--Power-BI/blob/main/Online%20Retail%20II.pdf) – Sales trends, customer insights, and KPIs
+![Status](https://img.shields.io/badge/Status-Deployed-brightgreen) ![Tech](https://img.shields.io/badge/Power%20BI-DataViz-F2C811) ![DB](https://img.shields.io/badge/SQL-Database-blue)  
 <img src="./Sales Dashboard.png" alt="Sales Dashboard" width="300"/>
 
 🔹 [VarSight](#) – Data-driven business solution with analytics  
+![Status](https://img.shields.io/badge/Status-Prototype-orange) ![Tech](https://img.shields.io/badge/Python-Analytics-3776AB) ![DB](https://img.shields.io/badge/PostgreSQL-Database-336791)  
 <img src="./Varsight.png" alt="Varsight Preview" width="300"/>
 
 📊 GitHub Stats 
