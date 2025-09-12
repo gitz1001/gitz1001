@@ -1,6 +1,7 @@
 ![Header](./github-header-banner.png)
 
 👀 About Me  @gitz1001
+
 ![Status](https://img.shields.io/badge/Student-IT-blue) ![Focus](https://img.shields.io/badge/Learning-AI%20%26%20Data%20Science-brightgreen)  ![Motto](https://img.shields.io/badge/Motto-Data%20tells%20stories-yellow)  
 🌱 Currently learning **Data Science, Artificial Intelligence, and R for Data Visualization**  
 🔭 Working on projects in **ETL, Business Information Systems, and Dashboard Design (Power BI, R Shiny, SQL)**  
