@@ -42,6 +42,9 @@ Interactive R Shiny dashboard for retail trend analysis and visualization
 ### 🔍 Preview
 ![Dashboard Screenshot](./TrendLine-Dashboard.png)  
 
+### 🔍 Preview
+<img src="./TrendLine-Dashboard.png" alt="Dashboard Screenshot" width="600"/>
+
 🔹 [Power BI Sales Performance Dashboard](#) – Sales trends, customer insights, and KPIs 
 
 🔹 [VarSight](#) – Data-driven business solution with analytics  
