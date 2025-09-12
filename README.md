@@ -1,6 +1,7 @@
 ![Header](./github-header-banner.png)
 
 👀 About Me  @gitz1001
+![Status](https://img.shields.io/badge/Student-IT-blue) ![Focus](https://img.shields.io/badge/Learning-AI%20%26%20Data%20Science-brightgreen)  ![Motto](https://img.shields.io/badge/Motto-Data%20tells%20stories-yellow)  
 🌱 Currently learning **Data Science, Artificial Intelligence, and R for Data Visualization**  
 🔭 Working on projects in **ETL, Business Information Systems, and Dashboard Design (Power BI, R Shiny, SQL)**  
 💞️ Open to collaboration on **data-driven projects, business analysis, and full-stack development**   
@@ -10,10 +11,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-baobaoen-jr/)  
 [![GitHub Pages](https://img.shields.io/badge/Portfolio-GitHub_Pages-181717?logo=github&logoColor=white)](https://gitz1001.github.io/My-portfolio)
 [![Notion](https://img.shields.io/badge/Portfolio-Notion-black?logo=notion&logoColor=white)](#)  
-
-![Status](https://img.shields.io/badge/Student-IT-blue) 
-![Focus](https://img.shields.io/badge/Learning-AI%20%26%20Data%20Science-brightgreen)  
-![Motto](https://img.shields.io/badge/Motto-Data%20tells%20stories-yellow)  
 
 
 🛠️ Tech Stack  
