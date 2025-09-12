@@ -32,7 +32,7 @@
 🔹 [Inventory Management System](#) – UML, DFD diagrams & system design for a fitness center  
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow) ![Tech](https://img.shields.io/badge/Java-FullStack-blue)  
 
-🔹 [Order Management Dashboard](#) – Interactive R Shiny dashboard connected to MySQL  
+🔹 [Order Management Dashboard](https://hadukin.shinyapps.io/OMS-Prelims-Dashboard) – Interactive R Shiny dashboard connected to MySQL  
 ![Status](https://img.shields.io/badge/Status-Deployed-brightgreen) ![Tech](https://img.shields.io/badge/R-Shiny-276DC3) ![DB](https://img.shields.io/badge/MySQL-Database-orange)  
 
 🔹 [TrendLine Retail Dashboard](https://hadukin.shinyapps.io/TrendLine-Dashboard)
@@ -40,7 +40,7 @@ Interactive R Shiny dashboard for retail trend analysis and visualization
 ![Status](https://img.shields.io/badge/Status-Deployed-brightgreen) ![Tech](https://img.shields.io/badge/R-Shiny-276DC3) ![Analytics](https://img.shields.io/badge/Data-Trend%20Analysis-blue)  
 <img src="./TrendLine-Dashboard.png" alt="Dashboard Screenshot" width="300"/>
 
-🔹 [Power BI Sales Performance Dashboard](#) – Sales trends, customer insights, and KPIs 
+🔹 [Power BI Sales Performance Dashboard](https://github.com/gitz1001/Online-Retail-Insights-and-Trends--Power-BI/blob/main/Online%20Retail%20II.pdf) – Sales trends, customer insights, and KPIs 
 
 🔹 [VarSight](#) – Data-driven business solution with analytics  
 
