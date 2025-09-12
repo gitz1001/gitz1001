@@ -8,6 +8,7 @@
 📫 Reach me:  
 [![Email](https://img.shields.io/badge/Email-24--0193c@sgen.edu.ph-red?logo=gmail&logoColor=white)](mailto:24-0193c@sgen.edu.ph)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-baobaoen-jr/)  
+[![GitHub Pages](https://img.shields.io/badge/Portfolio-GitHub_Pages-181717?logo=github&logoColor=white)](https://gitz1001.github.io/My-portfolio)
 [![Notion](https://img.shields.io/badge/Portfolio-Notion-black?logo=notion&logoColor=white)](#)  
 
 ![Status](https://img.shields.io/badge/Student-IT-blue) 
@@ -43,7 +44,6 @@ Interactive R Shiny dashboard for retail trend analysis and visualization
 <img src="./TrendLine-Dashboard.png" alt="Dashboard Screenshot" width="300"/>
 
 🔹 [Power BI Sales Performance Dashboard](https://github.com/gitz1001/Online-Retail-Insights-and-Trends--Power-BI/blob/main/Online%20Retail%20II.pdf) – Sales trends, customer insights, and KPIs
-
 ![Status](https://img.shields.io/badge/Status-Deployed-brightgreen) ![Tech](https://img.shields.io/badge/Power%20BI-DataViz-F2C811) ![DB](https://img.shields.io/badge/SQL-Database-blue)  
 <img src="./Sales Dashboard.png" alt="Sales Dashboard" width="300"/>
 
