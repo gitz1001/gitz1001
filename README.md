@@ -35,16 +35,12 @@
 🔹 [Order Management Dashboard](#) – Interactive R Shiny dashboard connected to MySQL  
 ![Status](https://img.shields.io/badge/Status-Deployed-brightgreen) ![Tech](https://img.shields.io/badge/R-Shiny-276DC3) ![DB](https://img.shields.io/badge/MySQL-Database-orange)  
 
-🔹## [TrendLine Retail Dashboard](https://hadukin.shinyapps.io/TrendLine-Dashboard)
+🔹 [TrendLine Retail Dashboard](https://hadukin.shinyapps.io/TrendLine-Dashboard)
 Interactive R Shiny dashboard for retail trend analysis and visualization  
-
-![Status](https://img.shields.io/badge/Status-Deployed-brightgreen) 
-![Tech](https://img.shields.io/badge/R-Shiny-276DC3) 
-![Analytics](https://img.shields.io/badge/Data-Trend%20Analysis-blue)  
+![Status](https://img.shields.io/badge/Status-Deployed-brightgreen) ![Tech](https://img.shields.io/badge/R-Shiny-276DC3) ![Analytics](https://img.shields.io/badge/Data-Trend%20Analysis-blue)  
 
 ### 🔍 Preview
-![Dashboard Screenshot](assets/preview.png)  
-*(Click to try live demo → [here](https://hadukin.shinyapps.io/TrendLine-Dashboard))*
+![Dashboard Screenshot](./TrendLine-Dashboard.png)  
 
 🔹 [Power BI Sales Performance Dashboard](#) – Sales trends, customer insights, and KPIs 
 
