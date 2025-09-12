@@ -38,8 +38,6 @@
 🔹 [TrendLine Retail Dashboard](https://hadukin.shinyapps.io/TrendLine-Dashboard)
 Interactive R Shiny dashboard for retail trend analysis and visualization  
 ![Status](https://img.shields.io/badge/Status-Deployed-brightgreen) ![Tech](https://img.shields.io/badge/R-Shiny-276DC3) ![Analytics](https://img.shields.io/badge/Data-Trend%20Analysis-blue)  
-
-### 🔍 Preview
 <img src="./TrendLine-Dashboard.png" alt="Dashboard Screenshot" width="300"/>
 
 🔹 [Power BI Sales Performance Dashboard](#) – Sales trends, customer insights, and KPIs 
