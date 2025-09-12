@@ -45,7 +45,6 @@ Interactive R Shiny dashboard for retail trend analysis and visualization
 🔹 [Power BI Sales Performance Dashboard](https://github.com/gitz1001/Online-Retail-Insights-and-Trends--Power-BI/blob/main/Online%20Retail%20II.pdf) – Sales trends, customer insights, and KPIs 
 <img src="./Sales Dashboard.png" alt="Sales Dashboard" width="300"/>
 
-
 🔹 [VarSight](#) – Data-driven business solution with analytics  
 <img src="./Varsight.png" alt="Varsight Preview" width="300"/>
 
