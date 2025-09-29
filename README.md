@@ -30,7 +30,7 @@
 🚀 Featured Projects  
 🔹 [Inventory Management System](#) – UML, DFD diagrams & system design for a fitness center  
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow) ![Tech](https://img.shields.io/badge/Java-FullStack-blue)  
-<img src="./Inventory.png" alt="Inventory Preview" width="300"/>
+<img src="./inventory.png" alt="Inventory Preview" width="300"/>
 
 🔹 [Order Management Dashboard](https://hadukin.shinyapps.io/OMS-Prelims-Dashboard) – Interactive R Shiny dashboard connected to MySQL  
 ![Status](https://img.shields.io/badge/Status-Deployed-brightgreen) ![Tech](https://img.shields.io/badge/R-Shiny-276DC3) ![DB](https://img.shields.io/badge/MySQL-Database-orange)  
