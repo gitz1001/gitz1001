@@ -54,6 +54,7 @@ Interactive R Shiny dashboard for retail trend analysis and visualization
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gitz1001&layout=compact&theme=radical)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitz1001&show_icons=true&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=gitz1001&theme=radical&border_radius=10)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gitz1001&theme=github-dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 
 🌱 2025 Learning Roadmap  
