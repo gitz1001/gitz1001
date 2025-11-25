@@ -12,7 +12,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-baobaoen-jr/)  
 [![GitHub Pages](https://img.shields.io/badge/Portfolio-GitHub_Pages-181717?logo=github&logoColor=white)](https://gitz1001.github.io/My-portfolio)
 [![Notion](https://img.shields.io/badge/Portfolio-Notion-black?logo=notion&logoColor=white)](https://www.notion.so/c82c9882681441c9b48f6b280d359199?v=2cec3f058eac4e1398e20e50132aa783&source=copy_link) 
-<a href="https://app.daily.dev/realedge"><img src="https://api.daily.dev/devcards/v2/w6jjc44KrcgyhxosZ4qOz.png?type=default&r=wxc" width="356" alt="Edgar's Dev Card"/></a>
 
 
 🛠️ Tech Stack  
@@ -55,6 +54,7 @@ Interactive R Shiny dashboard for retail trend analysis and visualization
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gitz1001&layout=compact&theme=radical)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitz1001&show_icons=true&theme=radical)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=gitz1001&theme=github-dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+<a href="https://app.daily.dev/realedge"><img src="https://api.daily.dev/devcards/v2/w6jjc44KrcgyhxosZ4qOz.png?type=default&r=wxc" width="356" alt="Edgar's Dev Card"/></a>
 
 
 🌱 2025 Learning Roadmap  
