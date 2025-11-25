@@ -11,7 +11,8 @@
 [![Email](https://img.shields.io/badge/Email-24--0193c@sgen.edu.ph-red?logo=gmail&logoColor=white)](mailto:24-0193c@sgen.edu.ph)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-baobaoen-jr/)  
 [![GitHub Pages](https://img.shields.io/badge/Portfolio-GitHub_Pages-181717?logo=github&logoColor=white)](https://gitz1001.github.io/My-portfolio)
-[![Notion](https://img.shields.io/badge/Portfolio-Notion-black?logo=notion&logoColor=white)](https://www.notion.so/c82c9882681441c9b48f6b280d359199?v=2cec3f058eac4e1398e20e50132aa783&source=copy_link)  
+[![Notion](https://img.shields.io/badge/Portfolio-Notion-black?logo=notion&logoColor=white)](https://www.notion.so/c82c9882681441c9b48f6b280d359199?v=2cec3f058eac4e1398e20e50132aa783&source=copy_link) 
+<a href="https://app.daily.dev/realedge"><img src="https://api.daily.dev/devcards/v2/w6jjc44KrcgyhxosZ4qOz.png?type=default&r=wxc" width="356" alt="Edgar's Dev Card"/></a>
 
 
 🛠️ Tech Stack  
