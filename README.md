@@ -57,6 +57,8 @@ Interactive R Shiny dashboard for retail trend analysis and visualization
 [![GitHub Streak](https://streak-stats.demolab.com?user=gitz1001&theme=github-dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 <a href="https://app.daily.dev/realedge"><img src="https://api.daily.dev/devcards/v2/w6jjc44KrcgyhxosZ4qOz.png?type=wide&r=wxc" width="652" alt="Edgar's Dev Card"/></a>
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="edgar-baobaoen-jr" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ph.linkedin.com/in/edgar-baobaoen-jr?trk=profile-badge">Edgar Baobaoen Jr</a></div>
 
 🌱 2025 Learning Roadmap  
