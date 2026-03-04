@@ -17,6 +17,7 @@
 🛠️ Tech Stack  
 
 **Languages & Tools**  
+
 [![My Skills](https://skillicons.dev/icons?i=python,r,java,js,html,css,mysql,cs&theme=dark)](https://skillicons.dev)  
 
 **Frameworks & Platforms**  
@@ -28,6 +29,7 @@
 
 
 🚀 Featured Projects 
+
 🔹 [TrendLine Retail Dashboard](https://hadukin.shinyapps.io/TrendLine-Dashboard)
 Interactive R Shiny dashboard for retail trend analysis and visualization  
 ![Status](https://img.shields.io/badge/Status-Deployed-brightgreen) ![Tech](https://img.shields.io/badge/R-Shiny-276DC3) ![Analytics](https://img.shields.io/badge/Data-Trend%20Analysis-blue)  
@@ -49,6 +51,7 @@ Interactive R Shiny dashboard for retail trend analysis and visualization
 🔹 [VarSight](#) – Data-driven business solution with analytics  
 ![Status](https://img.shields.io/badge/Status-Prototype-orange) ![Tech](https://img.shields.io/badge/Python-Analytics-3776AB) ![DB](https://img.shields.io/badge/PostgreSQL-Database-336791)  
 <img src="./Varsight.png" alt="Varsight Preview" width="300"/>
+
 
 📊 GitHub Stats 
 
@@ -79,6 +82,7 @@ Interactive R Shiny dashboard for retail trend analysis and visualization
 
 
 💡 Beyond Tech  
+
 - 🏀 Sports enthusiast | 🎨 Hobbyist | 📚 Lifelong learner  
 - 🎵 Productivity powered by Pop and Rock Beats  
 - 🌍 Exploring how **tech + finance + design** shape the future
