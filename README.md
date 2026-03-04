@@ -51,23 +51,28 @@ Interactive R Shiny dashboard for retail trend analysis and visualization
 <img src="./Varsight.png" alt="Varsight Preview" width="300"/>
 
 📊 GitHub Stats 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gitz1001&layout=compact&theme=radical&cache_seconds=1800)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitz1001&show_icons=true&theme=radical&cache_seconds=1800)
+
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gitz1001&show_icons=true&theme=radical&hide_border=true" />
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gitz1001&layout=compact&theme=radical&hide_border=true" />
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=gitz1001&theme=nightowl&border_radius=10&date_format=%5BY.%5Dn.j&card_width=600&card_height=200)](https://git.io/streak-stats)
 
-<a href="https://app.daily.dev/realedge"><img src="https://api.daily.dev/devcards/v2/w6jjc44KrcgyhxosZ4qOz.png?type=wide&r=wxc" width="652" alt="Edgar's Dev Card"/></a>
+<a href="https://app.daily.dev/realedge"><img src="https://api.daily.dev/devcards/v2/w6jjc44KrcgyhxosZ4qOz.png?type=wide&r=wxc" width="600" alt="Edgar's Dev Card"/></a>
+
+
 🌱 2025 Learning Roadmap  
 
 - [x] Java Fundamentals  
 - [x] R + Data Visualization  
 - [ ] AI & Machine Learning (Python / R)  
-- [ ] Cloud & ETL Pipelines (AWS, Azure, PostgreSQL)  
-- [ ] Full-stack Dev for business apps  
+- [x] Cloud & ETL Pipelines (AWS, Azure, PostgreSQL)  
+- [x] Full-stack Dev for business apps  
 
 💡 Beyond Tech  
 - 🏀 Sports enthusiast | 🎨 Dashboards Hobbyist | 📚 Lifelong learner  
 - 🎵 Productivity powered by Pop and Rock Beats  
-- 🌍 Exploring how **tech + finance + design** shape the future  
+- 🌍 Exploring how **tech + finance + design** shape the future
+
 ![Focus](https://img.shields.io/badge/Focus-Learning-blue)  
 ![Fun](https://img.shields.io/badge/Fun-Facts%20%26%20Tech-yellow)  
 ![Coffee](https://img.shields.io/badge/Coffee-Required-critical?logo=coffeescript&logoColor=white)  
