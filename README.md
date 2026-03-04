@@ -55,6 +55,7 @@ Interactive R Shiny dashboard for retail trend analysis and visualization
 [![GitHub Streak](https://streak-stats.demolab.com?user=gitz1001&theme=nightowl&border_radius=10&date_format=%5BY.%5Dn.j&card_width=600&card_height=200)](https://git.io/streak-stats)
 
 🗃️ Daily.dev Card 
+
 <a href="https://app.daily.dev/realedge"><img src="https://api.daily.dev/devcards/v2/w6jjc44KrcgyhxosZ4qOz.png?type=wide&r=wxc" width="600" alt="Edgar's Dev Card"/></a>
 
 
@@ -62,12 +63,23 @@ Interactive R Shiny dashboard for retail trend analysis and visualization
 
 - [x] Java Fundamentals  
 - [x] R + Data Visualization  
-- [ ] AI & Machine Learning (Python / R)  
+- [x] AI & Machine Learning (Python / R)  
 - [x] Cloud & ETL Pipelines (AWS, Azure, PostgreSQL)  
 - [x] Full-stack Dev for business apps  
 
+🌱 2026 Learning Roadmap  
+
+- [x] Data Analytics 
+- [ ] Forecasting and Predictive Analysis
+- [ ] Statistical Techniques
+- [ ] BI & Dashboards   
+- [ ] Portfolio projects and Web Dev
+- [ ] KPI Design & Business Storytelling
+- [ ] Automation & Scheduling
+
+
 💡 Beyond Tech  
-- 🏀 Sports enthusiast | 🎨 Dashboards Hobbyist | 📚 Lifelong learner  
+- 🏀 Sports enthusiast | 🎨 Hobbyist | 📚 Lifelong learner  
 - 🎵 Productivity powered by Pop and Rock Beats  
 - 🌍 Exploring how **tech + finance + design** shape the future
 
