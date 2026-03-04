@@ -51,7 +51,7 @@ Interactive R Shiny dashboard for retail trend analysis and visualization
 <img src="./Varsight.png" alt="Varsight Preview" width="300"/>
 
 📊 GitHub Stats 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gitz1001)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gitz1001&theme=nightowl&border_radius=10&date_format=%5BY.%5Dn.j&card_width=600&card_height=200)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gitz1001&layout=compact&theme=radical)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitz1001&show_icons=true&theme=radical)  
