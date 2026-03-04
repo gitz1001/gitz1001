@@ -52,10 +52,9 @@ Interactive R Shiny dashboard for retail trend analysis and visualization
 
 📊 GitHub Stats 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitz1001)](https://github.com/gitz1001/github-readme-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=gitz1001&theme=nightowl&border_radius=10&date_format=%5BY.%5Dn.j&card_width=600&card_height=200)](https://git.io/streak-stats)
 
+🗃️ Daily.dev Card 
 <a href="https://app.daily.dev/realedge"><img src="https://api.daily.dev/devcards/v2/w6jjc44KrcgyhxosZ4qOz.png?type=wide&r=wxc" width="600" alt="Edgar's Dev Card"/></a>
 
 
