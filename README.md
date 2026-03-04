@@ -52,8 +52,7 @@ Interactive R Shiny dashboard for retail trend analysis and visualization
 
 📊 GitHub Stats 
 
-<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gitz1001&show_icons=true&theme=radical&hide_border=true" />
-<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gitz1001&layout=compact&theme=radical&hide_border=true" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitz1001)](https://github.com/gitz1001/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=gitz1001&theme=nightowl&border_radius=10&date_format=%5BY.%5Dn.j&card_width=600&card_height=200)](https://git.io/streak-stats)
 
