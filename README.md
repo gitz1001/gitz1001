@@ -1,95 +1,225 @@
 ![Header](./github-header-banner.png)
 
-👀 About Me  @gitz1001
+# 👋 Hi, I'm Edgar Baobaoen Jr.
 
-![Status](https://img.shields.io/badge/Student-IT-blue) ![Focus](https://img.shields.io/badge/Learning-AI%20%26%20Data%20Science-brightgreen)  ![Motto](https://img.shields.io/badge/Motto-Data%20tells%20stories-yellow)  
-🌱 Currently learning **Data Science, Artificial Intelligence, and R for Data Visualization**  
-🔭 Working on projects in **ETL, Business Information Systems, and Dashboard Design (Power BI, R Shiny, SQL)**  
-💞️ Open to collaboration on **data-driven projects, business analysis, and full-stack development**   
-⚡ Fun fact: *Coding is fun... until AI does it in 5 seconds — master using AI, not fight it.*  
-📫 Reach me:  
-[![Email](https://img.shields.io/badge/Email-24--0193c@sgen.edu.ph-red?logo=gmail&logoColor=white)](mailto:24-0193c@sgen.edu.ph)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-baobaoen-jr/)  
-[![GitHub Pages](https://img.shields.io/badge/Portfolio-GitHub_Pages-181717?logo=github&logoColor=white)](https://gitz1001.github.io/My-portfolio)
-[![Notion](https://img.shields.io/badge/Portfolio-Notion-black?logo=notion&logoColor=white)](https://www.notion.so/c82c9882681441c9b48f6b280d359199?v=2cec3f058eac4e1398e20e50132aa783&source=copy_link) 
+### Data Science & Business Analytics • Full-Stack Development • Data-Driven Solutions
 
+I build **data-driven software, dashboards, and business solutions** that turn data into useful insights and better decisions.
 
-🛠️ Tech Stack  
+🎓 **BS Information Technology — Data Science & Business Analytics**  
+🏆 **Cum Laude Graduate**  
+💻 **Data Analytics • Business Analytics • Sports Analytics • Full-Stack Development • AI**
 
-**Languages & Tools**  
+> **Data → Insight → Decision**
 
-[![My Skills](https://skillicons.dev/icons?i=python,r,java,js,html,css,mysql,cs&theme=dark)](https://skillicons.dev)  
+---
 
-**Frameworks & Platforms**  
-[![My Skills](https://skillicons.dev/icons?i=matlab,mongodb,bootstrap,azure,postgres,supabase,windows&theme=dark)](https://skillicons.dev)  
+## 🧭 About Me
 
-**Collaboration & Productivity**  
-[![My Skills](https://skillicons.dev/icons?i=github,stackoverflow,discord,notion,gmail,linkedin,eclipse,ai&theme=dark)](https://skillicons.dev)  
+- 📊 Building projects around **data analytics, business intelligence, and decision support**
+- 💻 Developing **full-stack web applications and business systems**
+- 📈 Exploring **forecasting, predictive analytics, and financial markets**
+- 🏀 Interested in **sports analytics and performance data**
+- 🤖 Using AI to enhance development, automation, and productivity
+- 🌱 Continuously learning by **building, experimenting, and solving real-world problems**
 
+---
+## 🛠️ Tech Stack
 
+### 💻 Languages & Development
 
-🚀 Featured Projects 
+[![My Skills](https://skillicons.dev/icons?i=python,r,java,js,ts,html,css,cs,mysql,postgres&theme=dark)](https://skillicons.dev)
 
-🔹 [TrendLine Retail Dashboard](https://hadukin.shinyapps.io/TrendLine-Dashboard)
-Interactive R Shiny dashboard for retail trend analysis and visualization  
-![Status](https://img.shields.io/badge/Status-Deployed-brightgreen) ![Tech](https://img.shields.io/badge/R-Shiny-276DC3) ![Analytics](https://img.shields.io/badge/Data-Trend%20Analysis-blue)  
-<img src="./TrendLine-Dashboard.png" alt="Dashboard Screenshot" width="300"/>
+**Python** • **R** • **Java** • **JavaScript** • **TypeScript** • **SQL** • **HTML/CSS**
 
-🔹 [Power BI Sales Performance Dashboard](https://github.com/gitz1001/Online-Retail-Insights-and-Trends--Power-BI/blob/main/Online%20Retail%20II.pdf) – Sales trends, customer insights, and KPIs
-![Status](https://img.shields.io/badge/Status-Deployed-brightgreen) ![Tech](https://img.shields.io/badge/Power%20BI-DataViz-F2C811) ![DB](https://img.shields.io/badge/SQL-Database-blue)  
-<img src="./Sales Dashboard.png" alt="Sales Dashboard" width="300"/>
+### 🌐 Frameworks & Platforms
 
-🔹 [Inventory Management System](#) – UML, DFD diagrams & system design for a fitness center  
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow) ![Tech](https://img.shields.io/badge/Java-FullStack-blue)  
-<img src="./inventory.png" alt="Inventory Preview" width="300"/>
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,bootstrap,tailwind,azure,supabase,vercel&theme=dark)](https://skillicons.dev)
 
-🔹 [Order Management Dashboard](https://hadukin.shinyapps.io/OMS-Prelims-Dashboard) – Interactive R Shiny dashboard connected to MySQL  
-![Status](https://img.shields.io/badge/Status-Deployed-brightgreen) ![Tech](https://img.shields.io/badge/R-Shiny-276DC3) ![DB](https://img.shields.io/badge/MySQL-Database-orange)  
-<img src="./OMS.png" alt="OMS Preview" width="300"/>
+**React** • **Next.js** • **Node.js** • **R Shiny** • **Tailwind CSS** • **Bootstrap**  
+**Azure** • **Supabase** • **Vercel**
 
+### 🤖 AI & Agentic Development
 
-🔹 [VarSight](#) – Data-driven business solution with analytics  
-![Status](https://img.shields.io/badge/Status-Prototype-orange) ![Tech](https://img.shields.io/badge/Python-Analytics-3776AB) ![DB](https://img.shields.io/badge/PostgreSQL-Database-336791)  
-<img src="./Varsight.png" alt="Varsight Preview" width="300"/>
+**OpenAI** • **Claude** • **Gemini** • **AI APIs** • **RAG** • **MCP**  
+**AI Agents** • **Tool Calling** • **Prompt Engineering** • **AI-assisted Development**
 
+### 📊 Data & Analytics
 
-📊 GitHub Stats 
+**Power BI** • **Pandas** • **NumPy** • **Matplotlib** • **R Shiny**  
+**Data Visualization** • **Statistical Analysis** • **Predictive Analytics** • **Forecasting** • **ETL**
+
+### 🗄️ Databases & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,github,docker,vscode,figma&theme=dark)](https://skillicons.dev)
+
+**PostgreSQL** • **MySQL** • **MongoDB** • **Supabase**  
+**Git** • **GitHub** • **Docker** • **VS Code** • **Figma**
+
+### 🔄 Areas of Interest
+
+**Sports Analytics** • **Financial Markets** • **Business Intelligence**  
+**Full-Stack Applications** • **AI Applications** • **Automation**
+
+# 🚀 Projects
+
+## 📊 Data Science & Analytics
+
+### 🔹 [TrendLine Retail Dashboard](https://hadukin.shinyapps.io/TrendLine-Dashboard)
+
+Interactive **R Shiny dashboard** for retail trend analysis, visualization, and KPI exploration.
+
+![Status](https://img.shields.io/badge/Status-Deployed-brightgreen)
+![Tech](https://img.shields.io/badge/R-Shiny-276DC3)
+![Analytics](https://img.shields.io/badge/Data-Trend%20Analysis-blue)
+
+<img src="./TrendLine-Dashboard.png" alt="TrendLine Dashboard" width="500"/>
+
+---
+
+### 🔹 [Power BI Sales Performance Dashboard](https://github.com/gitz1001/Online-Retail-Insights-and-Trends--Power-BI)
+
+Business intelligence project analyzing **sales performance, customer behavior, trends, and KPIs**.
+
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Tech](https://img.shields.io/badge/Power%20BI-DataViz-F2C811)
+![DB](https://img.shields.io/badge/SQL-Database-blue)
+
+<img src="./Sales Dashboard.png" alt="Power BI Sales Dashboard" width="500"/>
+
+---
+
+## 💻 Full-Stack Development & Business Systems
+
+### 🔹 VarSight
+
+A data-driven **sports performance and management system** designed to centralize varsity team information, attendance, training records, game statistics, and analytics.
+
+![Status](https://img.shields.io/badge/Status-Prototype-orange)
+![Analytics](https://img.shields.io/badge/Data-Sports%20Analytics-blue)
+![DB](https://img.shields.io/badge/PostgreSQL-Database-336791)
+
+<img src="./Varsight.png" alt="VarSight" width="500"/>
+
+**Focus:** Sports Analytics • Business Information Systems • Performance Analytics • Dashboards
+
+---
+
+### 🔹 Inventory Management System
+
+Business system project focused on **system analysis, UML, DFDs, database design, and application development**.
+
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+![Tech](https://img.shields.io/badge/Java-Development-blue)
+
+<img src="./inventory.png" alt="Inventory Management System" width="500"/>
+
+---
+
+### 🔹 [Order Management Dashboard](https://hadukin.shinyapps.io/OMS-Prelims-Dashboard)
+
+Interactive **R Shiny order management dashboard** connected to MySQL.
+
+![Status](https://img.shields.io/badge/Status-Deployed-brightgreen)
+![Tech](https://img.shields.io/badge/R-Shiny-276DC3)
+![DB](https://img.shields.io/badge/MySQL-Database-orange)
+
+<img src="./OMS.png" alt="Order Management Dashboard" width="500"/>
+
+---
+
+# 🧪 Hobby & Experimental Projects
+
+Projects built to explore technologies, ideas, and things I find interesting.
+
+### 📈 Financial Markets
+
+Exploring **technical analysis, market data, trading systems, indicators, and quantitative concepts**.
+
+### 🏀 Sports Analytics
+
+Experimenting with **sports statistics, player performance, forecasting, and visualization**.
+
+### 🤖 AI & Automation
+
+Exploring tools that combine **AI, automation, software development, and productivity**.
+
+### 🎨 Web & Creative Experiments
+
+Building small projects around **web development, UI/UX, interactive experiences, and emerging technologies**.
+
+---
+
+# 📜 Certifications & Credentials
+
+- 🏆 **Cum Laude Graduate**
+- ☁️ **Microsoft Azure Fundamentals — AZ-900**
+- 📊 **Microsoft Azure Data Fundamentals — DP-900**
+- 📋 **Google Project Management Professional Certificate**
+- 🌐 **Cisco Networking Academy Certifications**
+- 💻 **Coursera Professional Development Certificates**
+- 🏀 **UMak IT Skills Olympics 2025 — Participant**
+
+---
+
+# 📚 Learning Roadmap
+
+### 2025
+
+- ✅ Java Fundamentals
+- ✅ R & Data Visualization
+- ✅ AI & Machine Learning
+- ✅ Cloud & ETL Concepts
+- ✅ Full-Stack Development
+- ✅ Business Information Systems
+
+### 2026
+
+- ✅ Data Analytics
+- 🔄 Forecasting & Predictive Analytics
+- 🔄 Statistical Techniques
+- 🔄 Business Intelligence & Dashboard Design
+- 🔄 KPI Design & Business Storytelling
+- 🔄 Automation & Scheduling
+- 🔄 Portfolio & Production Web Development
+
+> I learn by **building projects, analyzing problems, and turning concepts into working systems.**
+
+---
+
+# 📫 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-24--0193c%40sgen.edu.ph-red?logo=gmail&logoColor=white)](mailto:24-0193c@sgen.edu.ph)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-baobaoen-jr/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-181717?logo=github&logoColor=white)](https://gitz1001.github.io/My-portfolio)
+
+[![Notion](https://img.shields.io/badge/Portfolio-Notion-black?logo=notion&logoColor=white)](https://www.notion.so/c82c9882681441c9b48f6b280d359199?v=2cec3f058eac4e1398e20e50132aa783&source=copy_link)
+
+---
+
+# 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=gitz1001&theme=nightowl&border_radius=10&date_format=%5BY.%5Dn.j&card_width=600&card_height=200)](https://git.io/streak-stats)
 
-🗃️ Daily.dev Card 
+---
 
-<a href="https://app.daily.dev/realedge"><img src="https://api.daily.dev/devcards/v2/w6jjc44KrcgyhxosZ4qOz.png?type=wide&r=wxc" width="600" alt="Edgar's Dev Card"/></a>
+# 🌟 Beyond Tech
 
+- 🏀 Sports enthusiast
+- 🎨 Hobbyist & creative builder
+- 📚 Lifelong learner
+- 🎵 Productivity powered by Pop & Rock
+- 📈 Curious about financial markets
+- 🌍 Exploring how **technology, data, finance, sports, and design** intersect
 
-🌱 2025 Learning Roadmap  
+---
 
-- [x] Java Fundamentals  
-- [x] R + Data Visualization  
-- [x] AI & Machine Learning (Python / R)  
-- [x] Cloud & ETL Pipelines (AWS, Azure, PostgreSQL)  
-- [x] Full-stack Dev for business apps  
+## 💡 What I'm Building Toward
 
-🌱 2026 Learning Roadmap  
+**Data-driven software for sports, finance, and business.**
 
-- [x] Data Analytics 
-- [ ] Forecasting and Predictive Analysis
-- [ ] Statistical Techniques
-- [ ] BI & Dashboards   
-- [ ] Portfolio projects and Web Dev
-- [ ] KPI Design & Business Storytelling
-- [ ] Automation & Scheduling
+I’m interested in building systems where **software collects the data, analytics explains it, and design turns it into something people can actually use.**
 
-
-💡 Beyond Tech  
-
-- 🏀 Sports enthusiast | 🎨 Hobbyist | 📚 Lifelong learner  
-- 🎵 Productivity powered by Pop and Rock Beats  
-- 🌍 Exploring how **tech + finance + design** shape the future
-
-![Focus](https://img.shields.io/badge/Focus-Learning-blue)  
-![Fun](https://img.shields.io/badge/Fun-Facts%20%26%20Tech-yellow)  
-![Coffee](https://img.shields.io/badge/Coffee-Required-critical?logo=coffeescript&logoColor=white)  
-
-
-✨ “Data tells stories, tech builds bridges, and I stand at the intersection of both.”  
+> **“Data tells stories, tech builds bridges, and I build at the intersection of both.”**
